@@ -1,1 +1,3 @@
-excel-env/
+excel/
+dist/
+.xlsx
